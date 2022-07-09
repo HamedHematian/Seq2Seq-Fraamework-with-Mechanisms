@@ -2,7 +2,7 @@
 
 A Seq2Seq framework based on pytorch which implements a Seq2Seq model using rnn with below privileges:
 
-* Attention mechanism
+* Attention Mechanism
   * Encoder-Decoder Attention
   * Inter-Decoder Attention
 * Pointer Mechanism
@@ -14,4 +14,8 @@ A Seq2Seq framework based on pytorch which implements a Seq2Seq model using rnn 
   * RNN
   * LSTM
   * GRU
+* Different Decoding Mechanisms
+  * Beam Search
+  * Sampling Methods
+  * Temprature
 
