@@ -10,7 +10,7 @@ A Seq2Seq framework based on pytorch which implements a Seq2Seq model using rnn 
 * Teacher Forcing
   * Raw
   * Scheduling
-* Different RNN Types\
+* Different RNN Types
   * RNN
   * LSTM
   * GRU
