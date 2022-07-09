@@ -1,6 +1,6 @@
-# Seq2Seq-Framework-with-Mechanisms
+## Seq2Seq-Framework-with-Mechanisms
 
-A Seq2Seq franework based on pytorch wich implements a Seq2Seq model usin rnn with below priviledges:
+A Seq2Seq framework based on pytorch which implements a Seq2Seq model usin rnn with below priviledges:
 
 * Attention mechanism
   * Encoder-Decoder Attention
