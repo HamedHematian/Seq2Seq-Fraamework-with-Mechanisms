@@ -18,4 +18,6 @@ A Seq2Seq framework based on pytorch which implements a Seq2Seq model using rnn 
   * Beam Search
   * Sampling Methods
   * Temprature
-
+* Different Training Methods
+  * MLE
+  * RL
